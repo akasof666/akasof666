@@ -1,6 +1,5 @@
 <div align="center">
-<img src="<iframe src="https://giphy.com/embed/wKWxuUOcp9fdvckBty" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minecraft-cute-pixel-sprite-wKWxuUOcp9fdvckBty">via GIPHY</a></p>
-" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE0OGpmaGxobGh6NHI3M2thYzNoMDAzemRucjcwYms3cWhlc21hZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.webp" align="center" style="width: 100%" />
 </div>  
   
 
